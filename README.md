@@ -17,9 +17,9 @@
 ### 📉 性能指标：MSE/RMSE/MAE + 年化收益率计算<br>
 
 ## 使用
-`git clone https://github.com/HKJoker-Z/apple-stock-prediction.git`  
-`cd apple-stock-prediction`  
-`pip install -r requirements.txt`  <br>
+`git clone https://github.com/HKJoker-Z/apple-stock-prediction.git](https://github.com/HKJoker-Z/Apple-Stock-Price-Prediction-with-LSTM-and-Optuna-Optimization`  
+`cd Apple-Stock-Price-Prediction-with-LSTM-and-Optuna-Optimization`  
+`pip install -r requirements.txt`  
 
 ## 结果
 ### 性能指标
@@ -59,9 +59,9 @@ Achieves 27% MSE reduction on validation set and 18.7% annualized return (vs S&P
 ### 📉 Performance metrics: MSE/RMSE/MAE + Annualized Return<br>
 
 ## Usage
-`git clone https://github.com/HKJoker-Z/apple-stock-prediction.git`  
-`cd apple-stock-prediction`  
-`pip install -r requirements.txt`  <br>
+`git clone https://github.com/HKJoker-Z/apple-stock-prediction.git](https://github.com/HKJoker-Z/Apple-Stock-Price-Prediction-with-LSTM-and-Optuna-Optimization`  
+`cd Apple-Stock-Price-Prediction-with-LSTM-and-Optuna-Optimization`  
+`pip install -r requirements.txt`  
 
 ## Results
 ### Performance Metrics
