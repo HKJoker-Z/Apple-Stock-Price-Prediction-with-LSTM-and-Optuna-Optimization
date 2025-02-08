@@ -19,7 +19,7 @@
 ## 使用
 `git clone https://github.com/HKJoker-Z/apple-stock-prediction.git](https://github.com/HKJoker-Z/Apple-Stock-Price-Prediction-with-LSTM-and-Optuna-Optimization`  
 `cd Apple-Stock-Price-Prediction-with-LSTM-and-Optuna-Optimization`  
-`pip install -r requirements.txt`  
+
 
 ## 结果
 ### 性能指标
@@ -61,7 +61,7 @@ Achieves 27% MSE reduction on validation set and 18.7% annualized return (vs S&P
 ## Usage
 `git clone https://github.com/HKJoker-Z/apple-stock-prediction.git](https://github.com/HKJoker-Z/Apple-Stock-Price-Prediction-with-LSTM-and-Optuna-Optimization`  
 `cd Apple-Stock-Price-Prediction-with-LSTM-and-Optuna-Optimization`  
-`pip install -r requirements.txt`  
+
 
 ## Results
 ### Performance Metrics
